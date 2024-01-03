@@ -9,5 +9,5 @@
 
 ## Задание 2 Нейронные сети и Docker
 Собран новый [Dockerfile](./Lab2/Ex2/Dockerfile) с pythorch и CUDA, написан код для обработки изображения (детектирование объектов на фото с использованием сети [глубокого обучения](./Lab2/Ex2/image_processing_script.py) ), в консоли выведено итоговое изображение и на самом изображении добавлена разметка. 
-Итог задания: ![файл1](./Lab2/Ex2/itog.png) и 
-![файл2](./Lab2/Ex2/итоговый файл.png)
+Итог задания: ![файл1](https://github.com/bnepryakhin63/AIT/blob/master/Lab2/Ex2/itog.png) и 
+![файл2](https://github.com/bnepryakhin63/AIT/blob/master/Lab2/Ex2/итоговый файл.png)
